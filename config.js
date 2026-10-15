@@ -1,5 +1,5 @@
 window.CONFIG = {
-    CLOUD_URL: "https://jarvis-pro-fvk5.onrender.com/",
+    CLOUD_URL: "https://jarvis-pro-fvk5.onrender.com",
     FIREBASE_CONFIG: {
         apiKey: "AIzaSyDOTMmelvTI_JzCTzKNhiIW8nQk0qvkipU",
         authDomain: "jarvis-1c1f5.firebaseapp.com",
